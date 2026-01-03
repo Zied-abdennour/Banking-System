@@ -1,0 +1,10 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>bg.jpg</file>
+        <file>pic9.png</file>
+        <file>download.jpg</file>
+        <file>icon.png</file>
+        <file>icon2.png</file>
+        <file>icon3.webp</file>
+    </qresource>
+</RCC>
